@@ -1,10 +1,5 @@
-Pregubta 1
-Respuesta B
-
-Pregunta 2
-Respuesta C
-
-Pregunta 3 
-Respuesta B
-
-
+Pasos para subir archivos a GitHub:
+1. Abrir Termux
+2. Usar git add para preparar archivos
+3. Usar git commit para guardar cambios
+4. Usar git push para subir a la nube
