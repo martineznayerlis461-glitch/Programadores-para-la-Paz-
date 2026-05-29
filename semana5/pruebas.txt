@@ -1,0 +1,3 @@
+http://localhost:3000 -> El servidor responde mostrando el texto 'Servidor activo'.
+http://localhost:3000/saludo -> El servidor responde mostrando el texto 'Hola comunidad'.
+http://localhost:3000/mensaje/juan -> El servidor lee el parámetro dinámico ':nombre' de la URL (en este caso 'juan') y responde con un saludo personalizado: 'Hola juan'.
