@@ -1,0 +1,13 @@
+ACTIVIDAD SEMANA 6: PROGRAMACIÓN MODULAR
+
+1. ¿Qué es la programación modular?
+R/ Es un paradigma de programación que consiste en dividir un programa en partes más pequeñas llamadas módulos. Cada módulo es independiente, realiza una tarea específica y puede trabajar junto con otros módulos para resolver el problema general.
+
+2. ¿Cuáles son las ventajas de usar módulos?
+R/ Las principales ventajas son:
+- Reutilización de código: Podemos usar el mismo módulo en diferentes partes del proyecto sin volver a escribirlo.
+- Facilidad de mantenimiento: Si hay un error, es mucho más fácil buscar y corregir la falla dentro de un módulo específico que en un código gigante.
+- Trabajo en equipo: Varios programadores pueden trabajar en módulos diferentes al mismo tiempo sin interferir en el código de los demás.
+
+3. Conclusión de la semana:
+La programación modular nos permite organizar el código de manera limpia, ordenada y eficiente, facilitando la creación de soluciones de software escalables y fáciles de entender.
