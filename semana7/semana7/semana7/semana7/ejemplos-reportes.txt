@@ -1,0 +1,3 @@
+id: 2
+tipo: Ambiente
+descripcion: Acumulación de basura en zona verde
