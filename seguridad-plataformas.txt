@@ -1,5 +1,0 @@
-1. No exponer datos personales ni información sensible en perfiles públicos.
-2. Utilizar siempre contraseñas robustas y autenticación de dos factores.
-3. Asegurar que todas las conexiones utilicen protocolos seguros como HTTPS.
-4. Mantener un registro y control estricto de quién tiene acceso a los datos.
-5. Limitar el acceso a información sensible solo al personal autorizado.
