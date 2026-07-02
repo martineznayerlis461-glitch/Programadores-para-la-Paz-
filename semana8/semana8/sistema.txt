@@ -1,0 +1,3 @@
+uname -a: Muestra información detallada del sistema operativo, versión del kernel y arquitectura del hardware.
+whoami: Muestra el nombre de usuario con el que actualmente has iniciado sesión en la terminal.
+Es útil porque permite verificar quién está ejecutando procesos y qué versión del sistema se está administrando, lo cual es clave para la seguridad y el soporte técnico.
