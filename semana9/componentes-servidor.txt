@@ -1,0 +1,5 @@
+- Sistema operativo: Es el software base que gestiona los recursos del servidor y permite la ejecución de aplicaciones.
+- Node.js: Es el entorno de ejecución que permite que JavaScript se ejecute en el servidor para procesar peticiones.
+- Aplicación (server.js): Es el código específico que define las rutas y la lógica de respuesta de la API.
+- Puerto: Es el punto de conexión virtual (en este caso el 3000) por donde el servidor escucha y responde a las solicitudes.
+- Logs: Son los registros que permiten monitorear la actividad del servidor y detectar errores durante su funcionamiento.
