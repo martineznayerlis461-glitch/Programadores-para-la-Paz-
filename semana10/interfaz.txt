@@ -1,0 +1,1 @@
+Diseño del flujo de trabajo y la interfaz de automatización en n8n conectando los nodos de activación para la recepción y envío de mensajes.

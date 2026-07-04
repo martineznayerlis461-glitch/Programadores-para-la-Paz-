@@ -1,0 +1,1 @@
+Estructura y modelo de los datos enviados a través de la API de Telegram, organizando los parámetros de Chat ID y cuerpo del texto.
