@@ -1,5 +1,11 @@
 1. ¿Qué es n8n y para qué sirve?
-n8n es una herramienta de automatización de flujos de trabajo basada en nodos que permite conectar diferentes servicios y aplicaciones para automatizar tareas sin necesidad de escribir código complejo.
+n8n es una herramienta de automatización de flujos de trabajo basada en nodos que permite conectar diferentes servicios, aplicaciones y APIs para automatizar tareas y procesos sin necesidad de escribir código complejo desde cero.
 
 2. ¿Cómo se conecta un bot de Telegram con n8n?
-Se conecta creando un bot a través de BotFather en Telegram para obtener un token de acceso, el cual se introduce en las credenciales del nodo de Telegram dentro de n8n para recibir o enviar mensajes automáticamente.
+Se conecta creando primero el bot a través de BotFather en Telegram para obtener el token de acceso (HTTP API token). Luego, este token se introduce en las credenciales del nodo de Telegram dentro de n8n, permitiendo al flujo enviar o recibir mensajes automáticamente usando el Chat ID correspondiente.
+
+3. ¿Qué es un Webhook y cuál es su función en una automatización?
+Un Webhook es un mecanismo que permite a una aplicación enviar datos en tiempo real a otra aplicación tan pronto como ocurre un evento. En una automatización, funciona como un "disparador" (trigger) que avisa al flujo (por ejemplo, en n8n) que debe ejecutarse inmediatamente cuando pasa algo, como recibir un mensaje nuevo en Telegram.
+
+4. ¿Cuál es la diferencia entre un método GET y un método POST al trabajar con APIs?
+El método GET se utiliza exclusivamente para solicitar o pedir información a un servidor sin modificar nada (por ejemplo, consultar el estado de un bot). El método POST se utiliza para enviar datos nuevos al servidor para que este realice una acción o cree un registro (por ejemplo, enviar el texto de un mensaje hacia la API de Telegram para que se publique en el chat).
