@@ -1,0 +1,5 @@
+1. ¿Qué es n8n y para qué sirve?
+n8n es una herramienta de automatización de flujos de trabajo basada en nodos que permite conectar diferentes servicios y aplicaciones para automatizar tareas sin necesidad de escribir código complejo.
+
+2. ¿Cómo se conecta un bot de Telegram con n8n?
+Se conecta creando un bot a través de BotFather en Telegram para obtener un token de acceso, el cual se introduce en las credenciales del nodo de Telegram dentro de n8n para recibir o enviar mensajes automáticamente.

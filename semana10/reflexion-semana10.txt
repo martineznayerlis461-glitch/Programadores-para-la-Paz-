@@ -1,0 +1,2 @@
+Reflexión Semana 10:
+El uso de herramientas de automatización como n8n y su integración con plataformas de mensajería como Telegram nos abren un mundo de posibilidades para optimizar tareas repetitivas. Aprender a conectar estos sistemas nos prepara para desarrollar soluciones tecnológicas reales, eficientes y aplicadas a resolver problemas del día a día de manera automática.
