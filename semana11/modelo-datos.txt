@@ -1,0 +1,24 @@
+Entidad: IniciativaComunitaria
+
+Campos principales:
+- id (Número único de registro)
+- titulo_proyecto (Nombre de la propuesta o necesidad del barrio)
+- descripcion (Detalle de la problemática o mejora planteada)
+- sector_barrio (Zona específica donde se requiere la acción)
+- fecha_registro (Fecha de creación de la iniciativa)
+
+Propósito:
+Almacenar de forma organizada las propuestas de mejora vecinal que los ciudadanos registran para que sean visibles y evaluadas en la plataforma.
+
+
+Entidad: RegistroAsistencia
+
+Campos principales:
+- id (Número único de registro)
+- iniciativa_id (Enlace con la iniciativa comunitaria correspondiente)
+- codigo_usuario (Identificador anónimo del participante)
+- rol_comunitario (Delegado, vecino o colaborador)
+- fecha_inscripcion (Fecha en la que el usuario se sumó al proyecto)
+
+Propósito:
+Llevar un control cuantitativo de la participación ciudadana y el respaldo que recibe cada propuesta, permitiendo hacer seguimiento al interés comunitario sin exponer la identidad de las personas.
