@@ -1,0 +1,5 @@
+1. Un ciudadano delegado o miembro de la comunidad crea una causa o necesidad en la plataforma.
+2. La causa se registra de forma segura en la base de datos con sus datos principales.
+3. Otros ciudadanos ingresan a la plataforma, revisan la causa y registran su apoyo digital.
+4. El sistema cuenta y actualiza en tiempo real el número total de apoyos recibidos.
+5. Al alcanzar la meta o finalizar el plazo, el sistema genera automáticamente un documento PDF formal con la petición y el listado de apoyos para ser presentado ante las autoridades correspondientes.

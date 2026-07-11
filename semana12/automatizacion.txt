@@ -1,0 +1,3 @@
+- Qué evento activa la automatización: El registro de un nuevo apoyo en una causa comunitaria dentro de la plataforma.
+- Qué mensaje se envía: "¡Nuevo apoyo registrado! La causa ha sumado un respaldo más en la plataforma comunitaria."
+- Qué información NO debe enviarse por seguridad: No se deben enviar números de identificación (cédulas), números telefónicos, direcciones residenciales ni comentarios privados de los ciudadanos para proteger su privacidad y cumplir con la minimización de datos.

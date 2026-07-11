@@ -1,0 +1,13 @@
+Entidad: Causa
+- id: Identificador único de la causa (clave primaria).
+- titulo: El nombre o cabecera de la petición comunitaria.
+- descripcion: Detalle de la problemática o solicitud.
+- fecha: Día y hora en que se creó la causa.
+Serviría para: Almacenar de manera organizada toda la información pública sobre los proyectos, quejas o solicitudes que la comunidad quiere gestionar.
+
+Entidad: Apoyo
+- id: Identificador único del voto o firma (clave primaria).
+- causa_id: Relación con la causa específica que se está apoyando (clave foránea).
+- nombre: Nombre del ciudadano que apoya (respetando la minimización de datos).
+- fecha: Momento exacto en el que se registró el apoyo.
+Serviría para: Validar, contar y auditar cuántas personas respaldan una petición específica sin necesidad de guardar datos excesivamente privados.
